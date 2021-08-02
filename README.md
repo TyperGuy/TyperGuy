@@ -1,14 +1,15 @@
-### Hi there 👋, I'm a Fuckin Programmer
-##
+<h1>Hi there 👋, I'm a Fuckin Programmer</h1>
+<img align="right" alt="GIF" src="https://github.com/iuricode/iuricode/blob/master/pc.svg" width="300" height="120" />
 
 - 🔭 I’m currently working with MERN Stack
 - 🌱 I’m currently learning Typscript & React Native
 - 👯 I’m looking to collaborate on Projects that take me out of my comfort zone, and make me face new challenges.
+ 
 ##
  <div>
   <a href="https://github.com/TyperGuy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TyperGuy&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyperGuy&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyperGuy&layout=compact&langs_count=7&theme=material-palenight"/>
 
 </div>
   
@@ -29,7 +30,7 @@
 </div>
   
 ##
-  
+  <h2>Meet me here</h2>
 <div> 
  
   <a href="https://www.instagram.com/mambadev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -43,4 +44,9 @@
  
 </div>  
    
+<p align="center">
+<a href="">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TyperGuy&theme=default&hide_border=true"/>
+</a>
+</p> 
   
