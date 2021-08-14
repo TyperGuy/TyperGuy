@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working with MERN Stack
 - 📝 I’m currently learning Typscript & React Native
-- 👯 I’m looking to collaborate on Projects that take me out of my comfort zone, and make me face new challenges.
+- 🧗🏿 I’m looking to collaborate on Projects that take me out of my comfort zone, and make me face new challenges.
  
 ##
  <div>
