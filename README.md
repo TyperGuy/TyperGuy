@@ -1,9 +1,9 @@
 <h1>Hi there 👋, My name is Ray,I'm a Programmer!</h1>
 <img align="right" alt="GIF" src="https://github.com/iuricode/iuricode/blob/master/pc.svg" width="300" height="120" />
 
--- 💻 I’m currently working with MERN Stack
--- 📝 I’m currently learning Typscript & React Native
--- 🧗🏿 I’m looking to collaborate on Projects that take me out of my comfort zone, and make me face new challenges.
+- 💻 I’m currently working with MERN Stack
+- 📝 I’m currently learning Typscript & React Native
+- 🧗🏿 I’m looking to collaborate on Projects that take me out of my comfort zone, and make me face new challenges.
  
 ##
  <div>
