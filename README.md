@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm a Programmer</h1>
+<h1>Hi there 👋, My name is Ray, and I'm a Programmer</h1>
 <img align="right" alt="GIF" src="https://github.com/iuricode/iuricode/blob/master/pc.svg" width="300" height="120" />
 
 - 💻 I’m currently working with MERN Stack
