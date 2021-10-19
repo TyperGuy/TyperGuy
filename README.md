@@ -6,12 +6,13 @@
 - 🧗🏿 I’m looking to collaborate on Projects that take me out of my comfort zone, and make me face new challenges.
  
 ##
- <div>
+/* <div>
   <a href="https://github.com/TyperGuy">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=TyperGuy&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyperGuy&layout=compact&langs_count=7&theme=material-palenight"/>
 
 </div>
+*/
   
 ##  
    
