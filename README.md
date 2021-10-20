@@ -47,10 +47,13 @@
   
  
 </div>  
-   
+
+<!--   
 <p align="center">
 <a href="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TyperGuy&theme=default&hide_border=true"/>
 </a>
 </p> 
+
+-->
   
