@@ -1,9 +1,10 @@
-<h1>Hi there 👋, My name is Ray!</h1>
+<h1>Hi there 👋, Call RJ!</h1>
 
 
-- 💻 I’m currently working with MERN Stack
-- 📝 I’m currently learning Typscript & React Native
-- 🧗🏿 I’m looking to collaborate on Projects that take me out of my comfort zone, and make me face new challenges.
+
+I'm a Frontend & mobile developer, passionate about physics and innovation.
+I am driven by curiosity and the need to learn more and more, with a spirit of continuous self-improvement.
+"Physics moves the universe, we all should learn physics"
  
 ##
 <!--
