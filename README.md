@@ -1,4 +1,4 @@
-# Hi there 👋, Call me Rai!
+# Hi there 👋, Call me Rai
 
 <img src="LinkedIn cover - 3.png" />
 
