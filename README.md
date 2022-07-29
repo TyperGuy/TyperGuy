@@ -4,7 +4,7 @@
 
 I'm a Frontend developer, passionate about physics & innovation.
 I am driven by curiosity and the need to learn more and more, with a spirit of continuous self-improvement.
-"Physics moves the universe, we all should learn physics"
+"Physics moves the entire universe, we all should learn physics"
  
 ##
 
