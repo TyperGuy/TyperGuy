@@ -1,6 +1,6 @@
 # Hi there 👋, Call me Rai
 
-<img src="LinkedIn cover - 3.png" />
+<img src="LinkedIn cover - 3(1).png" />
 
 I'm a Frontend developer, passionate about physics & innovation.
 I am driven by curiosity and the need to learn more and more, with a spirit of continuous self-improvement.
