@@ -18,5 +18,5 @@ I am driven by curiosity and the need to learn more and more, with a spirit of c
  ### <a href="https://typerguy-io.vercel.app/">👆 Click the Link see my Portfolio </a>
 </div>  
 
-
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftyperrguy)
   
