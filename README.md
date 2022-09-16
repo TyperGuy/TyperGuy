@@ -15,7 +15,7 @@ I am driven by curiosity and the need to learn more and more, with a spirit of c
   <a href = "mailto:ray.developper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/rjtony/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- ### <a href="https://typerguy-io.vercel.app/">My Portfolio 👆</a>
+ ### <a href="https://typerguy-io.vercel.app/">See my Portfolio 👆</a>
 </div>  
 
 
